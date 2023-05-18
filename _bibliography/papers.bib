@@ -1,84 +1,66 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,},
-  preview={brownian-motion.gif}
+@article{10.1145/3571232,
+author = {Song, Youngju and Cho, Minki and Lee, Dongjae and Hur, Chung-Kil and Sammler, Michael and Dreyer, Derek},
+title = {Conditional Contextual Refinement},
+year = {2023},
+issue_date = {January 2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {7},
+number = {POPL},
+url = {https://doi.org/10.1145/3571232},
+doi = {10.1145/3571232},
+abstract = {Much work in formal verification of low-level systems is based on one of two approaches: refinement or separation logic. These two approaches have complementary benefits: refinement supports the use of programs as specifications, as well as transitive composition of proofs, whereas separation logic supports conditional specifications, as well as modular ownership reasoning about shared state. A number of verification frameworks employ these techniques in tandem, but in all such cases the benefits of the two techniques remain separate. For example, in frameworks that use relational separation logic to prove contextual refinement, the relational separation logic judgment does not support transitive composition of proofs, while the contextual refinement judgment does not support conditional specifications. In this paper, we propose Conditional Contextual Refinement (or CCR, for short), the first verification system to not only combine refinement and separation logic in a single framework but also to truly marry them together into a unified mechanism enjoying all the benefits of refinement and separation logic simultaneously. Specifically, unlike in prior work, CCR’s refinement specifications are both conditional (with separation logic pre- and post-conditions) and transitively composable. We implement CCR in Coq and evaluate its effectiveness on a range of interesting examples.},
+journal = {Proc. ACM Program. Lang.},
+month = {jan},
+articleno = {39},
+numpages = {31},
+keywords = {separation logic, Coq, verification, contextual refinement}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
+@inproceedings{10.1145/3519939.3523718,
+author = {Cho, Minki and Lee, Sung-Hwan and Lee, Dongjae and Hur, Chung-Kil and Lahav, Ori},
+title = {Sequential Reasoning for Optimizing Compilers under Weak Memory Concurrency},
+year = {2022},
+isbn = {9781450392655},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3519939.3523718},
+doi = {10.1145/3519939.3523718},
+abstract = {We formally show that sequential reasoning is adequate and sufficient for establishing soundness of various compiler optimizations under weakly consistent shared-memory concurrency. Concretely, we introduce a sequential model and show that behavioral refinement in that model entails contextual refinement in the Promising Semantics model, extended with non-atomic accesses for non-racy code. This is the first work to achieve such result for a full-fledged model with a variety of C11-style concurrency features. Central to our model is the lifting of the common data-race-freedom assumption, which allows us to validate irrelevant load introduction, a transformation that is commonly performed by compilers. As a proof of concept, we develop an optimizer for a toy concurrent language, and certify it (in Coq) while relying solely on the sequential model. We believe that the proposed approach provides useful means for compiler developers and validators, as well as a solid foundation for the development of certified optimizing compilers for weakly consistent shared-memory concurrency.},
+booktitle = {Proceedings of the 43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation},
+pages = {213–228},
+numpages = {16},
+keywords = {Compiler Optimizations, Relaxed Memory Concurrency, Operational Semantics},
+location = {San Diego, CA, USA},
+series = {PLDI 2022}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  selected={true}
+@misc{song2022conditional,
+      title={Conditional Contextual Refinement (CCR)}, 
+      author={Youngju Song and Minki Cho and Dongjae Lee and Chung-Kil Hur},
+      year={2022},
+      eprint={2203.07431},
+      archivePrefix={arXiv},
+      primaryClass={cs.PL}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+@article{DBLP:journals/corr/abs-2109-02991,
+  author       = {Youngju Song and
+                  Minki Cho and
+                  Dongjae Lee and
+                  Chung{-}Kil Hur},
+  title        = {Abstraction Logic: The Marriage of Contextual Refinement and Separation
+                  Logic},
+  journal      = {CoRR},
+  volume       = {abs/2109.02991},
+  year         = {2021},
+  url          = {https://arxiv.org/abs/2109.02991},
+  eprinttype    = {arXiv},
+  eprint       = {2109.02991},
+  timestamp    = {Mon, 20 Sep 2021 16:29:41 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2109-02991.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
