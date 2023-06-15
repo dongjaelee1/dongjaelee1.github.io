@@ -18,11 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research interest is to develop useful abstractions of computing systems.
+I am interested in program verification.
+Specifically, I investigate what it means for a program to be correct, develop proof techniques to prove programs correct, and actually write programs and carry out the proofs.
 
-My current focus is concurrency, and I am utilizing formal methods, especially the Coq proof assistant, to develop useful specifications and prove them correct.
+I have worked on, and am working on, verified compilers, concurrency, security, and developing proof techniques.
 
-Recently, I am also studying security.
 
 [//]: # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

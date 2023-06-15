@@ -46,6 +46,16 @@
         - Research and experiments on NV center qubits
         - Programming and developing devices for experiments
 
+- title: Talks
+  type: time_table
+  contents:
+    - title: <a href="https://sigpl.or.kr/school/2023w/" target="_blank">SIGPL Winter School 2023</a>, The Korean Institute of Information Scientists and Engineers
+      institution: Seoul, South Korea
+      year: "02.2023"
+      description:
+        - About fair operational semantics
+        - As a part of research group introduction
+
     # - title: Professor of Theoretical Physics
     #   institution: Institute for Advanced Study, Princeton University
     #   year: 1933 - 1955
