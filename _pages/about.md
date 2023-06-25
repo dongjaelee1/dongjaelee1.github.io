@@ -26,6 +26,67 @@ I have worked on, and am working on, verified compilers, concurrency, security, 
 **I am applying for a PhD this year!**
 
 
+### **Publications**
+\* equal contribution
+
+<div class="sftext emphasis1">
+  <div class="container">
+  <h4> Conference Papers </h4>
+  <div style="line-height:100%"><br /></div>
+  <ul>
+    <li>
+      <strong>Fair Operational Semantics</strong><br />
+      <strong>Dongjae Lee</strong>*,
+      Minki Cho*,
+      Jinwoo Kim,
+      Soonwon Moon,
+      Youngju Song,
+      Chung-Kil Hur.
+      <br />
+      <em> Proceedings of the 44rd ACM SIGPLAN Conference on Programming Language Design and Implementation (<strong><a href="https://pldi23.sigplan.org/">PLDI 2023</a></strong>)</em>
+      <br />
+      [<a href="https://sf.snu.ac.kr/publications/fairness.pdf">paper</a>]
+      [<a href="https://sf.snu.ac.kr/fairness/">project page</a>]
+    </li>
+  </ul>
+  
+  <ul>
+    <li>
+      <strong>Conditional Contextual Refinement.</strong><br />
+      Youngju Song,
+      Minki Cho,
+      <strong>Dongjae Lee</strong>,
+      Chung-Kil Hur,
+      Michael Sammler,
+      Derek Dreyer.
+      <br />
+      <em> Proceedings of the 50th ACM SIGPLAN Symposium on Principles of Programming Languages, January 2023 (<strong><a href="https://popl23.sigplan.org/">POPL 2023</a></strong>)</em>
+      <br />
+      [<a href="https://sf.snu.ac.kr/publications/ccr.pdf">paper</a>]
+      [<a href="https://sf.snu.ac.kr/ccr/">project page</a>]
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <strong>Sequential Reasoning for Optimizing Compilers under Weak Memory Concurrency.</strong><br />
+      Minki Cho*,
+      Sung-Hwan Lee*,
+      <strong>Dongjae Lee</strong>,
+      Chung-Kil Hur,
+      Ori Lahav.
+      <br />
+      <em> In Proceedings of the 43rd ACM SIGPLAN Conference on Programming Language Design and Implementation (<strong><a href="https://pldi22.sigplan.org/">PLDI 2022</a></strong>).</em>
+      <br />
+      [paper: <a href="https://sf.snu.ac.kr/publications/promising-seq-full.pdf">pdf</a>]
+      [<a href="https://sf.snu.ac.kr/promising-seq/">project page</a>]
+    </li>
+  </ul>
+  
+  </div>
+</div>
+
+
 [//]: # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 [//]: # Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
