@@ -52,7 +52,7 @@ I have worked on, and am working on, verified compilers, concurrency, security, 
   
   <ul>
     <li>
-      <strong>Conditional Contextual Refinement.</strong><br />
+      <strong>Conditional Contextual Refinement</strong><br />
       Youngju Song,
       Minki Cho,
       <strong>Dongjae Lee</strong>,
@@ -69,7 +69,7 @@ I have worked on, and am working on, verified compilers, concurrency, security, 
 
   <ul>
     <li>
-      <strong>Sequential Reasoning for Optimizing Compilers under Weak Memory Concurrency.</strong><br />
+      <strong>Sequential Reasoning for Optimizing Compilers under Weak Memory Concurrency</strong><br />
       Minki Cho*,
       Sung-Hwan Lee*,
       <strong>Dongjae Lee</strong>,
