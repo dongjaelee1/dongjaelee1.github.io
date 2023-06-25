@@ -49,6 +49,12 @@
 - title: Talks
   type: time_table
   contents:
+    - title: <a href="https://pldi23.sigplan.org/" target="_blank">PLDI 2023</a>, as part of FCRC 2023
+      institution: Orlando, Florida, United States
+      year: "06.2023"
+      description:
+        - Fair operational semantics
+
     - title: <a href="https://sigpl.or.kr/school/2023w/" target="_blank">SIGPL Winter School 2023</a>, The Korean Institute of Information Scientists and Engineers
       institution: Seoul, South Korea
       year: "02.2023"
