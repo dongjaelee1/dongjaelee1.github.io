@@ -35,6 +35,20 @@ I have worked on, and am working on, verified compilers, concurrency, security, 
   <div style="line-height:100%"><br /></div>
   <ul>
     <li>
+      <strong>Stuttering for Free</strong><br />
+      Minki Cho*,
+      Youngju Song*,
+      <strong>Dongjae Lee</strong>,
+      Lennard Gäher,
+      Derek Dreyer.
+      <br />
+      <em> International Conference on Object-Oriented Programming, Systems, Languages, and Applications (<strong><a href="https://2023.splashcon.org/track/splash-2023-oopsla">OOPSLA 2023</a></strong>)</em>
+      <br />
+    </li>
+  </ul>
+
+  <ul>
+    <li>
       <strong>Fair Operational Semantics</strong><br />
       <strong>Dongjae Lee</strong>*,
       Minki Cho*,
@@ -43,7 +57,7 @@ I have worked on, and am working on, verified compilers, concurrency, security, 
       Youngju Song,
       Chung-Kil Hur.
       <br />
-      <em> Proceedings of the 44rd ACM SIGPLAN Conference on Programming Language Design and Implementation (<strong><a href="https://pldi23.sigplan.org/">PLDI 2023</a></strong>)</em>
+      <em> Conference on Programming Language Design and Implementation (<strong><a href="https://pldi23.sigplan.org/">PLDI 2023</a></strong>)</em>
       <br />
       [<a href="https://sf.snu.ac.kr/publications/fairness.pdf">paper</a>]
       [<a href="https://sf.snu.ac.kr/fairness/">project page</a>]
@@ -60,7 +74,7 @@ I have worked on, and am working on, verified compilers, concurrency, security, 
       Michael Sammler,
       Derek Dreyer.
       <br />
-      <em> Proceedings of the 50th ACM SIGPLAN Symposium on Principles of Programming Languages, January 2023 (<strong><a href="https://popl23.sigplan.org/">POPL 2023</a></strong>)</em>
+      <em> Symposium on Principles of Programming Languages, (<strong><a href="https://popl23.sigplan.org/">POPL 2023</a></strong>)</em>
       <br />
       [<a href="https://sf.snu.ac.kr/publications/ccr.pdf">paper</a>]
       [<a href="https://sf.snu.ac.kr/ccr/">project page</a>]
@@ -76,7 +90,7 @@ I have worked on, and am working on, verified compilers, concurrency, security, 
       Chung-Kil Hur,
       Ori Lahav.
       <br />
-      <em> In Proceedings of the 43rd ACM SIGPLAN Conference on Programming Language Design and Implementation (<strong><a href="https://pldi22.sigplan.org/">PLDI 2022</a></strong>).</em>
+      <em> Conference on Programming Language Design and Implementation (<strong><a href="https://pldi22.sigplan.org/">PLDI 2022</a></strong>).</em>
       <br />
       [paper: <a href="https://sf.snu.ac.kr/publications/promising-seq-full.pdf">pdf</a>]
       [<a href="https://sf.snu.ac.kr/promising-seq/">project page</a>]
