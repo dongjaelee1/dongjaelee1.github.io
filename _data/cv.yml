@@ -16,10 +16,6 @@
       year: current
       description:
         - Advised by <a href="https://sf.snu.ac.kr/gil.hur/" target="_blank">Chung-Kil Hur</a>
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
     - title: B.S.
       institution: Seoul National University, Seoul, South Korea
       year: "08.2021"
@@ -34,7 +30,14 @@
       year: 03.2023 - 08.2023
       description:
         - Advised by <a href="https://catalin-hritcu.github.io/" target="_blank">Cătălin Hrițcu</a>
-        - Worked on secure compilation
+        - Developing and verifying a realistic secure compiler
+
+    - title: Research Intern
+      institution: Software Foundations Lab, Seoul National University
+      year: 09.2020 - 08.2021
+      description:
+        - Advised by <a href="https://sf.snu.ac.kr/gil.hur/" target="_blank">Chung-Kil Hur</a>
+        - Developing and verifying a compiler for the CCR framework
 
     - title: Mandatory Military Service
       institution: ROK Army
@@ -47,7 +50,7 @@
         - Research and experiments on NV center qubits
         - Programming and developing devices for experiments
 
-- title: Talks
+- title: Talk
   type: time_table
   contents:
     - title: <a href="https://pldi23.sigplan.org/" target="_blank">PLDI 2023</a>, as part of FCRC 2023
@@ -60,8 +63,28 @@
       institution: Seoul, South Korea
       year: "02.2023"
       description:
-        - About fair operational semantics
-        - As a part of research group introduction
+        - About fair operational semantics, as a part of research group introduction
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Topics in Programming Languages (Logic in computer science)
+      institution: Makoto Tatsuta, Seoul National University
+      year: 09.2023 - 12.2023
+      description:
+        - TA
+
+    - title: Principles of Programming
+      institution: Chung-Kil Hur, Seoul National University
+      year: 09.2022 - 12.2022
+      description:
+        - TA
+
+    - title: Principles and Practices of Software Development
+      institution: Chung-Kil Hur, Seoul National University
+      year: 03.2022 - 06.2022
+      description:
+        - TA
 
     # - title: Professor of Theoretical Physics
     #   institution: Institute for Advanced Study, Princeton University
