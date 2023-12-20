@@ -75,19 +75,28 @@
       institution: Makoto Tatsuta, Seoul National University
       year: 09.2023 - 12.2023
       description:
-        - TA
+        - TA, Graduate level course
 
     - title: Principles of Programming
       institution: Chung-Kil Hur, Seoul National University
       year: 09.2022 - 12.2022
       description:
-        - TA
+        - TA, Undergraduate level course
 
     - title: Principles and Practices of Software Development
       institution: Chung-Kil Hur, Seoul National University
       year: 03.2022 - 06.2022
       description:
-        - TA
+        - TA, Undergraduate level course
+
+- title: Other Activities
+  type: time_table
+  contents:
+    - title: Coq tutorial for refinement-based verification
+      institution: SFlab, Seoul National University
+      year: "10.2023"
+      description: https://github.com/mori1116/refinement-tutorial
+
 
     # - title: Professor of Theoretical Physics
     #   institution: Institute for Advanced Study, Princeton University
