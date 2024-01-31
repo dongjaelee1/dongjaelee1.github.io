@@ -44,6 +44,7 @@ I have worked on, and am working on, verified compilers, concurrency, security, 
       <br />
       <em> International Conference on Object-Oriented Programming, Systems, Languages, and Applications (<strong><a href="https://2023.splashcon.org/track/splash-2023-oopsla">OOPSLA 2023</a></strong>)</em>
       <br />
+      [<a href="https://doi.org/10.1145/3622857">doi</a>]
     </li>
   </ul>
 
@@ -59,6 +60,7 @@ I have worked on, and am working on, verified compilers, concurrency, security, 
       <br />
       <em> Conference on Programming Language Design and Implementation (<strong><a href="https://pldi23.sigplan.org/">PLDI 2023</a></strong>)</em>
       <br />
+      [<a href="https://doi.org/10.1145/3591253">doi</a>]
       [<a href="https://sf.snu.ac.kr/publications/fairness.pdf">paper</a>]
       [<a href="https://sf.snu.ac.kr/fairness/">project page</a>]
     </li>
@@ -76,6 +78,7 @@ I have worked on, and am working on, verified compilers, concurrency, security, 
       <br />
       <em> Symposium on Principles of Programming Languages, (<strong><a href="https://popl23.sigplan.org/">POPL 2023</a></strong>)</em>
       <br />
+      [<a href="https://doi.org/10.1145/3571232">doi</a>]
       [<a href="https://sf.snu.ac.kr/publications/ccr.pdf">paper</a>]
       [<a href="https://sf.snu.ac.kr/ccr/">project page</a>]
     </li>
@@ -92,11 +95,36 @@ I have worked on, and am working on, verified compilers, concurrency, security, 
       <br />
       <em> Conference on Programming Language Design and Implementation (<strong><a href="https://pldi22.sigplan.org/">PLDI 2022</a></strong>).</em>
       <br />
-      [paper: <a href="https://sf.snu.ac.kr/publications/promising-seq-full.pdf">pdf</a>]
+      [<a href="https://doi.org/10.1145/3519939.3523718">doi</a>]
+      [<a href="https://sf.snu.ac.kr/publications/promising-seq-full.pdf">paper</a>]
       [<a href="https://sf.snu.ac.kr/promising-seq/">project page</a>]
     </li>
   </ul>
   
+  </div>
+</div>
+
+
+<div class="sftext emphasis1">
+  <div class="container">
+  <h4> Preprints </h4>
+  <div style="line-height:100%"><br /></div>
+  <ul>
+    <li>
+      <strong>SECOMP: Formally Secure Compilation of Compartmentalized C Programs</strong><br />
+      Jérémy Thibault,
+      Roberto Blanco,
+      <strong>Dongjae Lee</strong>,
+      Sven Argo,
+      Arthur Azevedo de Amorim,
+      Aïna Linn Georges,
+      Cătălin Hrițcu,
+      Andrew Tolmach.
+      <br />
+      [<a href="https://arxiv.org/abs/2401.16277">draft</a>]
+    </li>
+  </ul>
+
   </div>
 </div>
 
