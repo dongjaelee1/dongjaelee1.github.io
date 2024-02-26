@@ -26,6 +26,10 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Assistant
+      institution: Software Foundations Lab, Seoul National University
+      year: 03.2024 - Current
+
     - title: Research Intern
       institution: Max Planck Institute for Security and Privacy, Bochum, Germany
       year: 03.2023 - 08.2023
@@ -58,7 +62,7 @@
   type: time_table
   contents:
     - title: Master's Thesis Award
-      institution: 2024, Department of Computer Science and Engineering, Seoul National University
+      institution: Department of Computer Science and Engineering, Seoul National University
       year: "02.2024"
 
 - title: Talk
