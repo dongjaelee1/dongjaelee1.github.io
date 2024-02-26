@@ -15,7 +15,7 @@ profile: false
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am interested in program verification.
@@ -23,6 +23,11 @@ Specifically, I investigate what it means for a program to be correct, develop p
 
 I have worked on, and am working on, verified compilers, concurrency, security, and developing proof techniques.
 
+email: dongjae.lee [at] sf.snu.ac.kr
+
+<a href="/assets/pdf/CV_Dongjae_Lee.pdf">cv</a>,
+<a href="https://scholar.google.com/citations?user=dtvdk3wAAAAJ">google scholar</a>,
+<a href="https://github.com/mori1116">github</a>
 
 ### **Publications**
 \* equal contribution
