@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Master's student in CSE at Seoul National University #<a href='#'>Affiliations</a>
+subtitle: Research Assistant at Software Foundations Lab, Seoul National University #<a href='#'>Affiliations</a>
 
 profile: false
   #align: right
@@ -22,8 +22,6 @@ I am interested in program verification.
 Specifically, I investigate what it means for a program to be correct, develop proof techniques, and write programs and prove them correct.
 
 I have worked on, and am working on, verified compilers, concurrency, security, and developing proof techniques.
-
-**I am applying for a PhD this year!**
 
 
 ### **Publications**

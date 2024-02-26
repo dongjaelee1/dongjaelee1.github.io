@@ -11,16 +11,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.S.
-      institution: Seoul National University, Seoul, South Korea
-      year: current
+    - title: M.S., Computer Science and Engineering
+      institution: Seoul National University
+      year: "02.2024"
       description:
         - Advised by <a href="https://sf.snu.ac.kr/gil.hur/" target="_blank">Chung-Kil Hur</a>
-    - title: B.S.
-      institution: Seoul National University, Seoul, South Korea
+        - Thesis&#58; <a href="/assets/pdf/thesis-masters.pdf">Operational Semantics for Expressing and Reasoning about Fairness Properties</a>
+    - title: B.S., Physics, Computer Science and Engineering
+      institution: Seoul National University
       year: "08.2021"
       description:
-        - Double major in physics and CSE
+        - Double major in Physics and CSE
 
 - title: Experience
   type: time_table
@@ -52,6 +53,13 @@
         - Advised by <a href="https://www.iqslab.net/contact" target="_blank">Dohun Kim</a>
         - Research and experiments on NV center qubits
         - Programming and developing devices for experiments
+
+- titile: Honors and Awards
+  type: time_table
+  contents:
+    - title: Master's Thesis Award
+      institution: 2024, Department of Computer Science and Engineering, Seoul National University
+      year: "02.2024"
 
 - title: Talk
   type: time_table
