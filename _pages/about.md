@@ -27,7 +27,7 @@ email: dongjae.lee [at] sf.snu.ac.kr
 
 <a href="/assets/pdf/CV_Dongjae_Lee.pdf">cv</a>,
 <a href="https://scholar.google.com/citations?user=dtvdk3wAAAAJ">google scholar</a>,
-<a href="https://github.com/mori1116">github</a>
+<a href="https://github.com/dongjaelee1">github</a>
 
 ### **Publications**
 \* equal contribution
