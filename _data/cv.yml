@@ -11,6 +11,9 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D., Computer Science and Engineering
+      institution: MIT
+      year: Current
     - title: M.S., Computer Science and Engineering
       institution: Seoul National University
       year: "02.2024"
@@ -28,7 +31,7 @@
   contents:
     - title: Research Assistant
       institution: Software Foundations Lab, Seoul National University
-      year: 03.2024 - Current
+      year: 03.2024 - 08.2024
 
     - title: Research Intern
       institution: Max Planck Institute for Security and Privacy, Bochum, Germany

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Assistant at Software Foundations Lab, Seoul National University #<a href='#'>Affiliations</a>
+subtitle: Ph.D. student, MIT PDOS #<a href='#'>Affiliations</a>
 
 profile: false
   #align: right
@@ -18,15 +18,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+I'm a Ph.D. student at <a href="https://pdos.csail.mit.edu/" target="_blank">MIT PDOS</a>, advised by <a href="https://people.csail.mit.edu/kaashoek/" target="_blank">Frans Kaashoek</a> and <a href="https://people.csail.mit.edu/nickolai/" target="_blank">Nickolai Zeldovich</a>.
 I am interested in program verification.
 Specifically, I investigate what it means for a program to be correct, develop proof techniques, and write programs and prove them correct.
-
 I have worked on, and am working on, verified compilers, concurrency, security, and developing proof techniques.
 
-email: dongjae.lee [at] sf.snu.ac.kr
+I got my B.S. and M.S. from Seoul National University.
+My advisor was <a href="https://sf.snu.ac.kr/gil.hur/" target="_blank">Chung-Kil Hur</a>.
+
+email: dongjael [at] mit [dot] edu
 
 <a href="/assets/pdf/CV_Dongjae_Lee.pdf">cv</a>,
-<a href="https://scholar.google.com/citations?user=dtvdk3wAAAAJ">google scholar</a>,
+<a href="https://scholar.google.com/citations?user=zWP6Y1sAAAAJ">google scholar</a>,
 <a href="https://github.com/dongjaelee1">github</a>
 
 ### **Publications**
@@ -36,6 +39,19 @@ email: dongjae.lee [at] sf.snu.ac.kr
   <div class="container">
   <h4> Conference Papers </h4>
   <div style="line-height:100%"><br /></div>
+
+  <ul>
+    <li>
+      <strong>Refinement Composition Logic</strong><br />
+      Youngju Song,
+      <strong>Dongjae Lee</strong>,
+      <br />
+      <em> International Conference on Functional Programming (<strong><a href="https://icfp24.sigplan.org/">ICFP 2024</a></strong>)</em>
+      <br />
+      [<a href="https://doi.org/10.1145/3674645">doi</a>]
+    </li>
+  </ul>
+
   <ul>
     <li>
       <strong>Stuttering for Free</strong><br />
