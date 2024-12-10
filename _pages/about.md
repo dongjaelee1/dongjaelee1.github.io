@@ -42,9 +42,28 @@ email: dongjael [at] mit [dot] edu
 
   <ul>
     <li>
+      <strong>SECOMP: Formally Secure Compilation of Compartmentalized C Programs</strong><br />
+      Jérémy Thibault,
+      Roberto Blanco,
+      <strong>Dongjae Lee</strong>,
+      Sven Argo,
+      Arthur Azevedo de Amorim,
+      Aïna Linn Georges,
+      Cătălin Hrițcu,
+      Andrew Tolmach.
+      <br />
+      <em> Conference on Computer and Communications Security (<strong><a href="https://www.sigsac.org/ccs/CCS2024/">CCS 2024</a></strong>)</em>
+      <br />
+      [<a href="https://dl.acm.org/doi/10.1145/3658644.3670288">doi</a>]
+      [<a href="https://arxiv.org/abs/2401.16277">draft</a>]
+    </li>
+  </ul>
+
+  <ul>
+    <li>
       <strong>Refinement Composition Logic</strong><br />
       Youngju Song,
-      <strong>Dongjae Lee</strong>,
+      <strong>Dongjae Lee</strong>.
       <br />
       <em> International Conference on Functional Programming (<strong><a href="https://icfp24.sigplan.org/">ICFP 2024</a></strong>)</em>
       <br />
@@ -128,21 +147,6 @@ email: dongjael [at] mit [dot] edu
   <div class="container">
   <h4> Preprints </h4>
   <div style="line-height:100%"><br /></div>
-  <ul>
-    <li>
-      <strong>SECOMP: Formally Secure Compilation of Compartmentalized C Programs</strong><br />
-      Jérémy Thibault,
-      Roberto Blanco,
-      <strong>Dongjae Lee</strong>,
-      Sven Argo,
-      Arthur Azevedo de Amorim,
-      Aïna Linn Georges,
-      Cătălin Hrițcu,
-      Andrew Tolmach.
-      <br />
-      [<a href="https://arxiv.org/abs/2401.16277">draft</a>]
-    </li>
-  </ul>
 
   </div>
 </div>
