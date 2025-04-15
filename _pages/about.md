@@ -42,6 +42,36 @@ email: dongjael [at] mit [dot] edu
 
   <ul>
     <li>
+      <strong>Lilo: A Higher-Order, Relational Concurrent Separation Logic for Liveness</strong><br />
+      <strong>Dongjae Lee</strong>, 
+      Janggun Lee, 
+      Taeyoung Yoon, 
+      Minki Cho, 
+      Jeehoon Kang, 
+      Chung-Kil Hur
+      <br />
+      <em> International Conference on Object-Oriented Programming, Systems, Languages, and Applications (<strong><a href="https://2025.splashcon.org/track/OOPSLA">OOPSLA 2025</a></strong>)</em>
+      <br />
+      [<a href="https://dl.acm.org/doi/abs/10.1145/3720525">doi</a>]
+      [<a href="/assets/pdf/paper/lilo-oopsla25.pdf">paper</a>]
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <strong>Refinement Composition Logic</strong><br />
+      Youngju Song,
+      <strong>Dongjae Lee</strong>.
+      <br />
+      <em> International Conference on Functional Programming (<strong><a href="https://icfp24.sigplan.org/">ICFP 2024</a></strong>)</em>
+      <br />
+      [<a href="https://doi.org/10.1145/3674645">doi</a>]
+      [<a href="/assets/pdf/paper/rcl-icfp24.pdf">paper</a>]
+    </li>
+  </ul>
+
+  <ul>
+    <li>
       <strong>SECOMP: Formally Secure Compilation of Compartmentalized C Programs</strong><br />
       Jérémy Thibault,
       Roberto Blanco,
@@ -55,19 +85,8 @@ email: dongjael [at] mit [dot] edu
       <em> Conference on Computer and Communications Security (<strong><a href="https://www.sigsac.org/ccs/CCS2024/">CCS 2024</a></strong>)</em>
       <br />
       [<a href="https://dl.acm.org/doi/10.1145/3658644.3670288">doi</a>]
+      [<a href="/assets/pdf/paper/secomp-ccs24.pdf">paper</a>]
       [<a href="https://arxiv.org/abs/2401.16277">draft</a>]
-    </li>
-  </ul>
-
-  <ul>
-    <li>
-      <strong>Refinement Composition Logic</strong><br />
-      Youngju Song,
-      <strong>Dongjae Lee</strong>.
-      <br />
-      <em> International Conference on Functional Programming (<strong><a href="https://icfp24.sigplan.org/">ICFP 2024</a></strong>)</em>
-      <br />
-      [<a href="https://doi.org/10.1145/3674645">doi</a>]
     </li>
   </ul>
 
@@ -83,6 +102,7 @@ email: dongjael [at] mit [dot] edu
       <em> International Conference on Object-Oriented Programming, Systems, Languages, and Applications (<strong><a href="https://2023.splashcon.org/track/splash-2023-oopsla">OOPSLA 2023</a></strong>)</em>
       <br />
       [<a href="https://doi.org/10.1145/3622857">doi</a>]
+      [<a href="/assets/pdf/paper/freesim-oopsla23.pdf">paper</a>]
     </li>
   </ul>
 
@@ -99,7 +119,7 @@ email: dongjael [at] mit [dot] edu
       <em> Conference on Programming Language Design and Implementation (<strong><a href="https://pldi23.sigplan.org/">PLDI 2023</a></strong>)</em>
       <br />
       [<a href="https://doi.org/10.1145/3591253">doi</a>]
-      [<a href="https://sf.snu.ac.kr/publications/fairness.pdf">paper</a>]
+      [<a href="/assets/pdf/paper/fos-pldi23.pdf">paper</a>]
       [<a href="https://sf.snu.ac.kr/fairness/">project page</a>]
     </li>
   </ul>
@@ -117,7 +137,7 @@ email: dongjael [at] mit [dot] edu
       <em> Symposium on Principles of Programming Languages, (<strong><a href="https://popl23.sigplan.org/">POPL 2023</a></strong>)</em>
       <br />
       [<a href="https://doi.org/10.1145/3571232">doi</a>]
-      [<a href="https://sf.snu.ac.kr/publications/ccr.pdf">paper</a>]
+      [<a href="/assets/pdf/paper/ccr-popl23.pdf">paper</a>]
       [<a href="https://sf.snu.ac.kr/ccr/">project page</a>]
     </li>
   </ul>
@@ -134,7 +154,7 @@ email: dongjael [at] mit [dot] edu
       <em> Conference on Programming Language Design and Implementation (<strong><a href="https://pldi22.sigplan.org/">PLDI 2022</a></strong>).</em>
       <br />
       [<a href="https://doi.org/10.1145/3519939.3523718">doi</a>]
-      [<a href="https://sf.snu.ac.kr/publications/promising-seq-full.pdf">paper</a>]
+      [<a href="/assets/pdf/paper/seq-pldi22.pdf">paper</a>]
       [<a href="https://sf.snu.ac.kr/promising-seq/">project page</a>]
     </li>
   </ul>
