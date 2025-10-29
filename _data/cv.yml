@@ -71,6 +71,12 @@
 - title: Talk
   type: time_table
   contents:
+    - title: <a href="https://2025.splashcon.org/track/OOPSLA?" target="_blank">OOPSLA 2025</a>
+      institution: Singapore
+      year: "10.2025"
+      description:
+        - "Lilo: A Higher-Order, Relational Concurrent Separation Logic for Liveness"
+
     - title: <a href="https://pldi23.sigplan.org/" target="_blank">PLDI 2023</a>, as part of FCRC 2023
       institution: Orlando, Florida, United States
       year: "06.2023"

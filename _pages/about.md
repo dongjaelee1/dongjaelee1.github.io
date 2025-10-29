@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: Ph.D. student, MIT PDOS #<a href='#'>Affiliations</a>
 
