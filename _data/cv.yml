@@ -29,6 +29,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Applied Scientist Intern
+      institution: Amazon Web Services, Cupertino, California, USA
+      year: 06.2026 - 09.2026
+      description:
+        - Manager{:} <a href="https://joonwon.net/c/" target="_blank">Joonwon Choi</a>
+
     - title: Research Assistant
       institution: Software Foundations Lab, Seoul National University
       year: 03.2024 - 08.2024
@@ -109,6 +115,12 @@
       year: 03.2022 - 06.2022
       description:
         - TA, Undergraduate level course
+
+- title: External Academic Service
+  type: time_table
+  contents:
+    - title: External Reviewing
+      description: European Conference on Object-Oriented Programming (ECOOP, 2026)
 
 - title: Other Activities
   type: time_table
